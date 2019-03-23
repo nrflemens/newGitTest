@@ -10,7 +10,8 @@
 
 4. Add a commit message
 	git commit -m "<commit message>"
-
+	
+	if you hit commit without a message press "esc" and type ":wq"
 5. Push to github
 	git push
 
