@@ -1,3 +1,6 @@
+0. Setup repository 
+	git clone <repository URL>
+
 1. Change directiory to repository
 	cd <respository directory>
 
